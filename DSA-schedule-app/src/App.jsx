@@ -9,6 +9,13 @@ function App() {
           Check the box for any session you plan to <strong>lead</strong> or attend.<br />
         </em>
       </p>
+      <p>
+        This is the full schedule for the 8-week Data Structures and Algorithms course. The tables below show the most common time zones and relevant information, such as chapters and the textbook&nbsp;
+        <a href="https://www.amazon.com/dp/195570600X?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank" rel="noopener noreferrer">
+          (Data Structures & Algorithms textbook)
+        </a>.
+        There are also video walkthroughs of related problems for each topic.
+      </p>
       <hr />
 
       {/* Week 1 */}
