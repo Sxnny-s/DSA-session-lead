@@ -112,7 +112,7 @@ function App() {
             <tr>
               <td><input type="checkbox" /></td>
               <td>B1</td>
-              <td>Wednesday</td>
+              <td>Thursday</td>
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
