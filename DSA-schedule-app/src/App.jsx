@@ -3,11 +3,10 @@ import './App.css';
 function App() {
   return (
     <div style={{ padding: '1rem', maxWidth: 900, margin: 'auto', fontFamily: 'Arial, sans-serif' }}>
-      <h1>📆 DSA Session Leadership Schedule </h1>
+      <h1>📆 DSA Session Schedule </h1>
       <p>
         <em>
           Check the box for any session you plan to <strong>lead</strong> or attend.<br />
-          Dates and times are in <strong>ET</strong> for quick reference.
         </em>
       </p>
       <hr />
