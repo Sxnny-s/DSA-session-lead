@@ -43,7 +43,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Recursion</td>
             </tr>
             <tr>
@@ -53,7 +53,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Recursion</td>
             </tr>
             <tr>
@@ -63,7 +63,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Recursion</td>
             </tr>
           </tbody>
@@ -106,7 +106,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Stacks & Queues</td>
             </tr>
             <tr>
@@ -116,7 +116,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Stacks & Queues</td>
             </tr>
             <tr>
@@ -126,7 +126,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Stacks & Queues</td>
             </tr>
             <tr>
@@ -136,7 +136,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Stacks & Queues</td>
             </tr>
           </tbody>
@@ -184,7 +184,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Binary Trees & BSTs</td>
             </tr>
             <tr>
@@ -194,7 +194,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Binary Trees & BSTs</td>
             </tr>
             <tr>
@@ -204,7 +204,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Binary Trees & BSTs</td>
             </tr>
             <tr>
@@ -214,7 +214,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Binary Trees & BSTs</td>
             </tr>
           </tbody>
@@ -257,7 +257,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Graphs</td>
             </tr>
             <tr>
@@ -267,7 +267,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Graphs</td>
             </tr>
             <tr>
@@ -277,7 +277,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Graphs</td>
             </tr>
             <tr>
@@ -287,7 +287,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Graphs</td>
             </tr>
           </tbody>
@@ -331,7 +331,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Backtracking</td>
             </tr>
             <tr>
@@ -341,7 +341,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Backtracking</td>
             </tr>
             <tr>
@@ -351,7 +351,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Backtracking</td>
             </tr>
             <tr>
@@ -361,7 +361,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Backtracking</td>
             </tr>
           </tbody>
@@ -404,7 +404,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Linked Lists</td>
             </tr>
             <tr>
@@ -414,7 +414,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Linked Lists</td>
             </tr>
             <tr>
@@ -424,7 +424,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Linked Lists</td>
             </tr>
             <tr>
@@ -434,7 +434,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Linked Lists</td>
             </tr>
           </tbody>
@@ -482,7 +482,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Hash Tables</td>
             </tr>
             <tr>
@@ -492,7 +492,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Hash Tables</td>
             </tr>
             <tr>
@@ -502,7 +502,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Hash Tables</td>
             </tr>
             <tr>
@@ -512,7 +512,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Hash Tables</td>
             </tr>
           </tbody>
@@ -570,7 +570,7 @@ function App() {
               <td>9:00 PM</td>
               <td>6:00 PM</td>
               <td>8:00 PM</td>
-              <td>1:00 AM</td>
+              <td>2:00 AM</td> {/* 1:00 AM + 1 hour */}
               <td>Sorting & Binary Search</td>
             </tr>
             <tr>
@@ -580,7 +580,7 @@ function App() {
               <td>2:00 PM</td>
               <td>11:00 AM</td>
               <td>1:00 PM</td>
-              <td>6:00 PM</td>
+              <td>7:00 PM</td> {/* 6:00 PM + 1 hour */}
               <td>Sorting & Binary Search</td>
             </tr>
             <tr>
@@ -590,7 +590,7 @@ function App() {
               <td>5:00 AM</td>
               <td>2:00 AM</td>
               <td>4:00 AM</td>
-              <td>9:00 AM</td>
+              <td>10:00 AM</td> {/* 9:00 AM + 1 hour */}
               <td>Sorting & Binary Search</td>
             </tr>
             <tr>
@@ -600,7 +600,7 @@ function App() {
               <td>11:00 AM</td>
               <td>8:00 AM</td>
               <td>10:00 AM</td>
-              <td>3:00 PM</td>
+              <td>4:00 PM</td> {/* 3:00 PM + 1 hour */}
               <td>Sorting & Binary Search</td>
             </tr>
           </tbody>
